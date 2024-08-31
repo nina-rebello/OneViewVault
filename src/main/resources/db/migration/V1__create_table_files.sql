@@ -1,0 +1,4 @@
+CREATE TABLE files (
+   id UUID PRIMARY KEY,
+   path VARCHAR(255)
+);
