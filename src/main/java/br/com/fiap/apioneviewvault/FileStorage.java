@@ -14,4 +14,6 @@ public class FileStorage {
     UUID id = UUID.randomUUID();
     String path;
 
+    public FileStorage() {
+    }
 }
